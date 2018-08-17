@@ -1,2 +1,2 @@
-# web-tech
+# web
 Just for studies
